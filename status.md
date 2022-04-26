@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Nicholas Phillips
 
 #### Your section leader's name
 
-TODO
+Jeremy Fan
 
 #### Project title
 
-TODO
+Shooting Barrels
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+At this point I have just switched my final project to Shooting Barrels so I don't have much added
 
 #### What have you not done for your project yet?
 
-TODO
+I haven't done most of the code but I plan on working on most of it now.
 
 #### What problems, if any, have you encountered?
 
-TODO
+The problem I ran into with my last project was multiprocessing.
